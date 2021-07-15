@@ -1,7 +1,11 @@
 This is first line
 This is second line
-This is third line - updated3
+This is third line.
 This is fourth line
 This is fifth line
 This is sixth line
+<<<<<<< Updated upstream
 This is seventh line
+=======
+This is seventh line.
+>>>>>>> Stashed changes
